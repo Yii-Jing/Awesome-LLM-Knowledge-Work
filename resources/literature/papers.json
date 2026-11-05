@@ -1,0 +1,1962 @@
+[
+ {
+  "key": "cho2026explain",
+  "title": "Large Language Models Can Explain Experts Better Than Experts Themselves",
+  "authors": "Cho et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2608.07488v2",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "valsbenchmarks",
+  "title": "Vals AI Enterprise Benchmarks: Corporate Finance, Mortgage Tax, Case Law, and Legal Research",
+  "authors": "Vals AI",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.vals.ai/benchmarks",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "onoda2026tacit",
+  "title": "What Aspects of Tacit Knowledge Are Structurally Excluded from Generative AI? A Conceptual Framework of Mediation, Structure, and Representation",
+  "authors": "Onoda and Ito",
+  "year": 2026,
+  "venue": "The Human Side of Service Engineering",
+  "url": "https://doi.org/10.54941/ahfe1007726",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "paperbench2025",
+  "title": "PaperBench: Evaluating AI's Ability to Replicate AI Research",
+  "authors": "Starace et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2504.01848",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "katz2024gpt4bar",
+  "title": "GPT-4 Passes the Bar Exam",
+  "authors": "Katz et al.",
+  "year": 2024,
+  "venue": "Philosophical Transactions of the Royal Society A",
+  "url": "https://doi.org/10.1098/rsta.2023.0254",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "eloundou2024gpts",
+  "title": "GPTs are GPTs: Labor Market Impact Potential of LLMs",
+  "authors": "Eloundou et al.",
+  "year": 2024,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adj0998",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "rein2023gpqa",
+  "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+  "authors": "Rein et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2311.12022",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "singhal2023clinical",
+  "title": "Large Language Models Encode Clinical Knowledge",
+  "authors": "Singhal et al.",
+  "year": 2023,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-023-06291-2",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "alkhamissi2022review",
+  "title": "A Review on Language Models as Knowledge Bases",
+  "authors": "AlKhamissi et al.",
+  "year": 2022,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2204.06031",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "kambhampati2021polanyi",
+  "title": "Polanyi's Revenge and AI's New Romance with Tacit Knowledge",
+  "authors": "Kambhampati",
+  "year": 2021,
+  "venue": "Communications of the ACM",
+  "url": "https://doi.org/10.1145/3446369",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "roberts2020knowledge",
+  "title": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?",
+  "authors": "Roberts et al.",
+  "year": 2020,
+  "venue": "EMNLP",
+  "url": "https://aclanthology.org/2020.emnlp-main.437/",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "deployrag",
+  "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "authors": "Lewis et al.",
+  "year": 2020,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2005.11401",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "petroni2019lama",
+  "title": "Language Models as Knowledge Bases?",
+  "authors": "Petroni et al.",
+  "year": 2019,
+  "venue": "EMNLP",
+  "url": "https://doi.org/10.18653/v1/D19-1250",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "collins2010tacit",
+  "title": "Tacit and Explicit Knowledge",
+  "authors": "Collins",
+  "year": 2010,
+  "venue": "University of Chicago Press",
+  "url": "https://doi.org/10.7208/chicago/9780226113821.001.0001",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "tsoukas2005tacit",
+  "title": "Do We Really Understand Tacit Knowledge?",
+  "authors": "Tsoukas",
+  "year": 2005,
+  "venue": "Complex Knowledge: Studies in Organizational Epistemology",
+  "url": "https://doi.org/10.1093/oso/9780199275571.003.0007",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "autor2003skill",
+  "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+  "authors": "Autor et al.",
+  "year": 2003,
+  "venue": "The Quarterly Journal of Economics",
+  "url": "https://doi.org/10.1162/003355303322552801",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "anderson2001taxonomy",
+  "title": "A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives",
+  "authors": "Anderson and Krathwohl",
+  "year": 2001,
+  "venue": "Longman",
+  "url": "",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "cowan2000explicit",
+  "title": "The Explicit Economics of Knowledge Codification and Tacitness",
+  "authors": "Cowan et al.",
+  "year": 2000,
+  "venue": "Industrial and Corporate Change",
+  "url": "https://doi.org/10.1093/icc/9.2.211",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "drucker1999productivity",
+  "title": "Knowledge-Worker Productivity: The Biggest Challenge",
+  "authors": "Drucker",
+  "year": 1999,
+  "venue": "California Management Review",
+  "url": "https://doi.org/10.2307/41165987",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "aghion1997formal",
+  "title": "Formal and Real Authority in Organizations",
+  "authors": "Aghion and Tirole",
+  "year": 1997,
+  "venue": "Journal of Political Economy",
+  "url": "",
+  "group": "framework",
+  "subsection": "Three Stages"
+ },
+ {
+  "key": "nonaka1994",
+  "title": "A Dynamic Theory of Organizational Knowledge Creation",
+  "authors": "Nonaka",
+  "year": 1994,
+  "venue": "Organization Science",
+  "url": "https://doi.org/10.1287/orsc.5.1.14",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "lave1991situated",
+  "title": "Situated Learning: Legitimate Peripheral Participation",
+  "authors": "Lave and Wenger",
+  "year": 1991,
+  "venue": "Cambridge University Press",
+  "url": "https://doi.org/10.1017/CBO9780511815355",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "abbott1988system",
+  "title": "The System of Professions: An Essay on the Division of Expert Labor",
+  "authors": "Abbott",
+  "year": 1988,
+  "venue": "University of Chicago Press",
+  "url": "",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "fama1983separation",
+  "title": "Separation of Ownership and Control",
+  "authors": "Fama and Jensen",
+  "year": 1983,
+  "venue": "The Journal of Law and Economics",
+  "url": "",
+  "group": "framework",
+  "subsection": "Three Stages"
+ },
+ {
+  "key": "schon1983reflective",
+  "title": "The Reflective Practitioner: How Professionals Think in Action",
+  "authors": "Schon",
+  "year": 1983,
+  "venue": "Basic Books",
+  "url": "",
+  "group": "framework",
+  "subsection": "Three Stages"
+ },
+ {
+  "key": "simon1973structure",
+  "title": "The Structure of Ill Structured Problems",
+  "authors": "Simon",
+  "year": 1973,
+  "venue": "Artificial Intelligence",
+  "url": "https://doi.org/10.1016/0004-3702(73)90011-8",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "polanyi1966tacit",
+  "title": "The Tacit Dimension",
+  "authors": "Polanyi",
+  "year": 1966,
+  "venue": "Doubleday",
+  "url": "",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "machlup1962production",
+  "title": "The Production and Distribution of Knowledge in the United States",
+  "authors": "Machlup",
+  "year": 1962,
+  "venue": "Princeton University Press",
+  "url": "",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "drucker1959landmarks",
+  "title": "Landmarks of Tomorrow",
+  "authors": "Drucker",
+  "year": 1959,
+  "venue": "Harper & Brothers",
+  "url": "",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "polanyi1958personal",
+  "title": "Personal Knowledge: Towards a Post-Critical Philosophy",
+  "authors": "Polanyi",
+  "year": 1958,
+  "venue": "University of Chicago Press",
+  "url": "",
+  "group": "framework",
+  "subsection": null
+ },
+ {
+  "key": "ryle1949concept",
+  "title": "The Concept of Mind",
+  "authors": "Ryle",
+  "year": 1949,
+  "venue": "Hutchinson",
+  "url": "",
+  "group": "framework",
+  "subsection": "Tacit Knowledge Work"
+ },
+ {
+  "key": "onemillion2026",
+  "title": "$OneMillion-Bench: How Far are Language Agents from Human Experts?",
+  "authors": "Yang et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2603.07980v1",
+  "group": "evaluation",
+  "subsection": null
+ },
+ {
+  "key": "judgechanged2026",
+  "title": "A Judge Should Know What Changed: Construct Validity for LLM-as-a-Judge Evaluation",
+  "authors": "Chen et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2608.24419v1",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "ale2026",
+  "title": "Agents' Last Exam",
+  "authors": "Sun et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2606.05405v2",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "apexagents2026",
+  "title": "APEX-Agents",
+  "authors": "Vidgen et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2601.14242v3",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "bigfinancebench2026",
+  "title": "BigFinanceBench: A Workflow-Grounded Benchmark for Financial-Research Agents",
+  "authors": "Wang et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2606.03829",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "cadbench2026",
+  "title": "CAD-bench: Benchmarking Language Models on Functional CAD Generation",
+  "authors": "Saini",
+  "year": 2026,
+  "venue": "The Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD), ICML 2026",
+  "url": "https://icml.cc/virtual/2026/67851",
+  "group": "evaluation",
+  "subsection": null
+ },
+ {
+  "key": "collabskill2026",
+  "title": "CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks",
+  "authors": "Shao et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2606.09833",
+  "group": "evaluation",
+  "subsection": "Trends and Open Gaps"
+ },
+ {
+  "key": "hua2026knowledgework",
+  "title": "Designing Benchmarks for Knowledge Work",
+  "authors": "Hua et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2605.23262v2",
+  "group": "evaluation",
+  "subsection": null
+ },
+ {
+  "key": "labscoring",
+  "title": "Harvey LAB: Evaluation Strategies and Scoring Documentation",
+  "authors": "Harvey",
+  "year": 2026,
+  "venue": "",
+  "url": "https://github.com/harveyai/harvey-labs/blob/main/docs/eval-strategies.md",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "healthagent2026",
+  "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+  "authors": "Liu et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2606.31179",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "gdpvalaa",
+  "title": "Intelligence Benchmarking: GDPval-AA Methodology",
+  "authors": "Artificial Analysis",
+  "year": 2026,
+  "venue": "",
+  "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking#gdpval-aa",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "harveylab",
+  "title": "Introducing Harvey's Legal Agent Benchmark",
+  "authors": "Harvey",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "jobbench2026",
+  "title": "JobBench: Aligning Agent Work with Human Will",
+  "authors": "Li et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2605.26329v1",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "aei_labor2026",
+  "title": "Labor Market Impacts of AI: A New Measure and Early Evidence",
+  "authors": "Massenkoff and McCrory",
+  "year": 2026,
+  "venue": "Research report, Anthropic",
+  "url": "https://www.anthropic.com/research/labor-market-impacts",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "mbabench2026",
+  "title": "MBABench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance",
+  "authors": "Yen et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2605.22664",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "mubric2026",
+  "title": "Mubric: Mutation Testing-Guided Rubric Generation for LLM Evaluation",
+  "authors": "Yang et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2609.37322v1",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "osmarathon2026",
+  "title": "OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks",
+  "authors": "Wu et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2601.20650",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "aei2026",
+  "title": "The Anthropic Economic Index",
+  "authors": "Anthropic",
+  "year": 2026,
+  "venue": "Public dataset and technical report",
+  "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "unippt2026",
+  "title": "UniPPTBench: A Unified Benchmark for Presentation Generation Across Diverse Input Settings",
+  "authors": "Zhao et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2605.17356v1",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "workbench2026",
+  "title": "WorkBench Revisited: Workplace Agents Two Years On",
+  "authors": "Styles and Miller",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2606.13715v2",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "eigbtos2025",
+  "title": "AI Adoption in the Census Business Trends and Outlook Survey (BTOS)",
+  "authors": "Economic Innovation Group",
+  "year": 2025,
+  "venue": "Public replication repository",
+  "url": "https://github.com/EIG-Research/ai-btos",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "crmarena2025",
+  "title": "CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions",
+  "authors": "Huang et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2505.18878v1",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "finch2025",
+  "title": "Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows",
+  "authors": "Dong et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2512.13168",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "gdpval2025",
+  "title": "GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks",
+  "authors": "Patwardhan et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2510.04374",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "healthbench2025",
+  "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+  "authors": "Arora et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2505.08775",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "medagentbench2025",
+  "title": "MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents",
+  "authors": "Jiang et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2501.14654",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "prbench2025",
+  "title": "PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning",
+  "authors": "Akyurek et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2511.11562v1",
+  "group": "evaluation",
+  "subsection": null
+ },
+ {
+  "key": "rli2025",
+  "title": "Remote Labor Index: Measuring AI Automation of Remote Work",
+  "authors": "Mazeika et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2510.26787",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "apex2025",
+  "title": "The AI Productivity Index (APEX)",
+  "authors": "Vidgen et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2509.25721",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "writingbench2025",
+  "title": "WritingBench: A Comprehensive Benchmark for Generative Writing",
+  "authors": "Wu et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2503.05244",
+  "group": "evaluation",
+  "subsection": "Benchmark Landscape"
+ },
+ {
+  "key": "cogym2024",
+  "title": "Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration",
+  "authors": "Shao et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2412.15701v6",
+  "group": "evaluation",
+  "subsection": "Trends and Open Gaps"
+ },
+ {
+  "key": "dsbench2024",
+  "title": "DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?",
+  "authors": "Jing et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://github.com/LiqiangJing/DSBench",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "theagentcompany2024",
+  "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+  "authors": "Xu et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2412.14161v2",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "evalgen2024",
+  "title": "Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences",
+  "authors": "Shankar et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2404.12272",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "finqa2021",
+  "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
+  "authors": "Chen et al.",
+  "year": 2021,
+  "venue": "EMNLP",
+  "url": "https://aclanthology.org/2021.emnlp-main.300/",
+  "group": "evaluation",
+  "subsection": "Scoring and Calibration"
+ },
+ {
+  "key": "ouchi1979conceptual",
+  "title": "A Conceptual Framework for the Design of Organizational Control Mechanisms",
+  "authors": "Ouchi",
+  "year": 1979,
+  "venue": "Management Science",
+  "url": "",
+  "group": "evaluation",
+  "subsection": "Task Construction"
+ },
+ {
+  "key": "ares2026",
+  "title": "ARES: Automated Rubric Synthesis for Scalable LLM Reinforcement Learning",
+  "authors": "Li et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2605.23454v2",
+  "group": "training",
+  "subsection": "Synthesizing Rubrics for Scalable Supervision"
+ },
+ {
+  "key": "harveypreference",
+  "title": "Augmenting Human Preference in Complex Domains",
+  "authors": "Pereyra",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/blog/augmenting-human-preference-in-complex-domains",
+  "group": "training",
+  "subsection": "Synthesizing Rubrics for Scalable Supervision"
+ },
+ {
+  "key": "banker",
+  "title": "BankerToolBench: Evaluating AI Agents in End-to-End Investment Banking Workflows",
+  "authors": "Lau et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2604.11304v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "codemidas",
+  "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+  "authors": "Ye et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2609.22068v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "corecraft",
+  "title": "EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments",
+  "authors": "Mehta et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2602.16179v5",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "enterpriselab",
+  "title": "EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises",
+  "authors": "Agarwal et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2603.21630v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "healthadmin",
+  "title": "HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks",
+  "authors": "Bedi et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2604.09937v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "insufficiencybench2026",
+  "title": "InsufficiencyBench: Evaluating LLM Legal Advice on Underspecified User Queries",
+  "authors": "Vincent et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2608.20220",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "intentrl2026",
+  "title": "IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning",
+  "authors": "Luo et al.",
+  "year": 2026,
+  "venue": "ICML",
+  "url": "https://proceedings.mlr.press/v306/luo26p.html",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "legalone",
+  "title": "LegalOne: A Family of Foundation Models for Reliable Legal Reasoning",
+  "authors": "Li et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2602.00642v2",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "mint",
+  "title": "Mint-Agent: Introducing Finance-Native Agentic Foundation Models",
+  "authors": "Team et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2608.16386v2",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "personaforge2026",
+  "title": "PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems",
+  "authors": "Lv et al.",
+  "year": 2026,
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+  "url": "https://aclanthology.org/2026.findings-emnlp.2181/",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "scaleenv",
+  "title": "ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training",
+  "authors": "Tu et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2602.06820v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "spreadsheet",
+  "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
+  "authors": "Chi et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2605.22642v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "reviewtable",
+  "title": "Training Frontier Review Table Models With Applied Compute",
+  "authors": "Rengarajan et al.",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/blog/training-frontier-review-table-models-with-applied-compute",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "agentar",
+  "title": "Agentar-DeepFinance-300K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization",
+  "authors": "Zhao et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2507.12901v1",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "autoforge",
+  "title": "AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning",
+  "authors": "Cai et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2512.22857v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "fino1",
+  "title": "Fino1: On the Transferability of Reasoning-Enhanced LLMs and Reinforcement Learning to Finance",
+  "authors": "Qian et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2502.08127v3",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "medreason",
+  "title": "MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs",
+  "authors": "Wu et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2504.00993v1",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "rar2025",
+  "title": "Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains",
+  "authors": "Gunjal et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2507.17746v2",
+  "group": "training",
+  "subsection": "Synthesizing Rubrics for Scalable Supervision"
+ },
+ {
+  "key": "dreamgym",
+  "title": "Scaling Agent Learning via Experience Synthesis",
+  "authors": "Chen et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2511.03773v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "swesmith",
+  "title": "SWE-smith: Scaling Data for Software Engineering Agents",
+  "authors": "Yang et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2504.21798v1",
+  "group": "training",
+  "subsection": "Scaling Training Environments"
+ },
+ {
+  "key": "shumailov2024collapse",
+  "title": "AI models collapse when trained on recursively generated data",
+  "authors": "Shumailov et al.",
+  "year": 2024,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-024-07566-y",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "herlihy2024priors",
+  "title": "On Overcoming Miscalibrated Conversational Priors in LLM-based ChatBots",
+  "authors": "Herlihy et al.",
+  "year": 2024,
+  "venue": "Fortieth Conference on Uncertainty in Artificial Intelligence",
+  "url": "https://proceedings.mlr.press/v244/herlihy24a.html",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "unfaithful",
+  "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+  "authors": "Turpin et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2305.04388v2",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "lightman2023verify",
+  "title": "Let's Verify Step by Step",
+  "authors": "Lightman et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2305.20050",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "scheurer2023ilf",
+  "title": "Training Language Models with Language Feedback at Scale",
+  "authors": "Scheurer et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2303.16755",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "bai2022constitutional",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "authors": "Bai et al.",
+  "year": 2022,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2212.08073",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "star",
+  "title": "STaR: Bootstrapping Reasoning With Reasoning",
+  "authors": "Zelikman et al.",
+  "year": 2022,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2203.14465v2",
+  "group": "training",
+  "subsection": "Synthesizing Expert Reasoning"
+ },
+ {
+  "key": "parasuraman2010complacency",
+  "title": "Complacency and Bias in Human Use of Automation: An Attentional Integration",
+  "authors": "Parasuraman and Manzey",
+  "year": 2010,
+  "venue": "Human Factors",
+  "url": "https://doi.org/10.1177/0018720810376055",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "settles2009active",
+  "title": "Active Learning Literature Survey",
+  "authors": "Settles",
+  "year": 2009,
+  "venue": "University of Wisconsin–Madison, Department of Computer Sciences",
+  "url": "https://minds.wisconsin.edu/handle/1793/60660",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "hanley1983zero",
+  "title": "If nothing goes wrong, is everything all right? Interpreting zero numerators",
+  "authors": "Hanley and Lippman-Hand",
+  "year": 1983,
+  "venue": "JAMA",
+  "url": "https://doi.org/10.1001/jama.1983.03330370053031",
+  "group": "training",
+  "subsection": null
+ },
+ {
+  "key": "deployamieclinical",
+  "title": "A prospective clinical feasibility study of a conversational diagnostic AI in an ambulatory primary care clinic",
+  "authors": "Brodeur et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2603.08448v2",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deployskillsspec",
+  "title": "Agent Skills Specification",
+  "authors": "Agent Skills",
+  "year": 2026,
+  "venue": "",
+  "url": "https://agentskills.io/specification",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "deploybaichuanm4",
+  "title": "Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care",
+  "authors": "Yang et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2606.08982v2",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploybiomcp",
+  "title": "BioMCP: Biomedical Data Access for Agents",
+  "authors": "BioMCP Contributors",
+  "year": 2026,
+  "venue": "",
+  "url": "https://github.com/genomoncology/biomcp/tree/4050fdc7dbdf4d713d94cf02a39a147b863665be",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deployfinanceskills",
+  "title": "Claude for Financial Services: Reference Agents, Skills, and Data Connectors",
+  "authors": "Anthropic",
+  "year": 2026,
+  "venue": "",
+  "url": "https://github.com/anthropics/financial-services/tree/574ed3624aebd0418c7e96cd101262f30210ab26",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deployhealthmcp",
+  "title": "Claude for Healthcare: Connectors and Workflow Reference Implementations",
+  "authors": "Anthropic",
+  "year": 2026,
+  "venue": "",
+  "url": "https://github.com/anthropics/healthcare/tree/c7ed150d376bdd13219eb0bfeb4203e12da85516",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deployalphapricing",
+  "title": "Customer Support: API Access, Usage Limits, and Market Data",
+  "authors": "Alpha Vantage",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.alphavantage.co/support/",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deployfinanceharness",
+  "title": "FinanceHarness: Autonomous Financial Deep Research Framework",
+  "authors": "Xiao et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2607.27853v1",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deployfinfirst",
+  "title": "FinFIRST: Financial Information Retrieval, Sourcing and Traceability",
+  "authors": "Ant Group",
+  "year": 2026,
+  "venue": "",
+  "url": "https://huggingface.co/datasets/inclusionAI/FinFIRST/blob/1d062a63d6e58b398d162658ffd49731f12512a6/README.md",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deployglmlegal",
+  "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+  "authors": "Z.ai",
+  "year": 2026,
+  "venue": "",
+  "url": "https://z.ai/blog/glm-legal",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deployharnessscaling",
+  "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+  "authors": "Bai et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29458v1",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deployvalslegal",
+  "title": "Harvey's Legal Agent Benchmark v1 Leaderboard",
+  "authors": "Vals AI",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.vals.ai/benchmarks/hlab-v1",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deployharveyii",
+  "title": "Introducing Harvey II",
+  "authors": "Harvey Team",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/blog/introducing-harvey-ii",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deploylanggraphinterrupts",
+  "title": "LangGraph: Interrupts",
+  "authors": "LangChain",
+  "year": 2026,
+  "venue": "",
+  "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploylegalskills",
+  "title": "Legal-Skills-Chinese: Chinese Legal Reasoning Skills",
+  "authors": "Legal-Skills-Chinese Contributors",
+  "year": 2026,
+  "venue": "",
+  "url": "https://github.com/THUYRan/Legal-Skills-Chinese/tree/c31ef1f022be6bcb3e31c1a2374d1d8240ffa61f",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "deploylingfin",
+  "title": "Ling-3.0-flash-Fin Model Card",
+  "authors": "Ant Group",
+  "year": 2026,
+  "venue": "",
+  "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash-Fin/blob/a5b4afb48f526175991724472c179e5a065604de/README.md",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deploylingsante",
+  "title": "Ling-3.0-flash-Sante Model Card",
+  "authors": "Ant Group",
+  "year": 2026,
+  "venue": "",
+  "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash-Sante/blob/f74bd27bd26ffc71a50dd847805f8f7666ff0b43/README.md",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploymedgemma15",
+  "title": "MedGemma 1.5 Model Card",
+  "authors": "Google",
+  "year": 2026,
+  "venue": "",
+  "url": "https://developers.google.com/health-ai-developer-foundations/medgemma/model-card",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deploymedgemmadocs",
+  "title": "MedGemma: Health AI Developer Foundations",
+  "authors": "Google",
+  "year": 2026,
+  "venue": "",
+  "url": "https://developers.google.com/health-ai-developer-foundations/medgemma",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deploymedicalharness",
+  "title": "MedicalHarness: A Controlled Evaluation of LLMs and Agent Harnesses on Medical Tasks",
+  "authors": "Wang et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2610.05778v1",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploycopilot",
+  "title": "Microsoft Copilot Overview",
+  "authors": "Microsoft",
+  "year": 2026,
+  "venue": "",
+  "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-overview",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deploymcp",
+  "title": "Model Context Protocol: Architecture Overview",
+  "authors": "Model Context Protocol Contributors",
+  "year": 2026,
+  "venue": "",
+  "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploypkulawmcp",
+  "title": "Pkulaw MCP Legal Services Platform",
+  "authors": "Pkulaw",
+  "year": 2026,
+  "venue": "",
+  "url": "https://mcp.pkulaw.com/",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "harveydiligence",
+  "title": "Post-Training RLM Agents for End-to-End M&A Diligence",
+  "authors": "Grupen et al.",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/blog/post-training-rlm-agents-for-m-and-a-diligence",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deployharveysecurity",
+  "title": "Security and Data Privacy",
+  "authors": "Harvey",
+  "year": 2026,
+  "venue": "",
+  "url": "https://www.harvey.ai/security",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deployskillrefine",
+  "title": "SkillRefine: Cross-Source Skill Induction and Execution Validation for LLM Agents in Refinery Planning Software",
+  "authors": "Liu et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2609.30674v1",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "skillsbench2026",
+  "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+  "authors": "Li et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/html/2602.12670v4",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "deployamievideo",
+  "title": "Towards Expert-level Medical AI for Real-time Video Consultations",
+  "authors": "Nagda et al.",
+  "year": 2026,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2608.09861v1",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "deploylawspc2025",
+  "title": "Interpretation on Issues Concerning the Application of Law in the Trial of Labour Dispute Cases (II)",
+  "authors": "Supreme People's Court of the People's Republic of China",
+  "year": 2025,
+  "venue": "Judicial interpretation, Fa Shi [2025] No. 12, in Gazette of the Supreme People's Court, 2025, No. 10",
+  "url": "http://gongbao.court.gov.cn/Details/bb72019c45453f84d920bd6375573e.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploytoolrl",
+  "title": "ToolRL: Reward Is All Tool Learning Needs",
+  "authors": "Qian et al.",
+  "year": 2025,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2504.13958v1",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploybridge",
+  "title": "Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes",
+  "authors": "Wang et al.",
+  "year": 2024,
+  "venue": "NAACL",
+  "url": "https://aclanthology.org/2024.naacl-long.120/",
+  "group": "deployment",
+  "subsection": "Skills and Professional Procedures"
+ },
+ {
+  "key": "deploylegalbenchrag",
+  "title": "LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain",
+  "authors": "Pipitone and Alami",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2408.10343v1",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deploylostmiddle",
+  "title": "Lost in the Middle: How Language Models Use Long Contexts",
+  "authors": "Liu et al.",
+  "year": 2024,
+  "venue": "Transactions of the Association for Computational Linguistics",
+  "url": "https://aclanthology.org/2024.tacl-1.9/",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deployroutellm",
+  "title": "RouteLLM: Learning to Route LLMs with Preference Data",
+  "authors": "Ong et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2406.18665v1",
+  "group": "deployment",
+  "subsection": "Specialized Models and Deployment Choices"
+ },
+ {
+  "key": "deploygovchat",
+  "title": "The Findings of Our First Generative AI Experiment: GOV.UK Chat",
+  "authors": "Government Digital Service",
+  "year": 2024,
+  "venue": "Inside GOV.UK",
+  "url": "https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "wang2024tutor",
+  "title": "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise",
+  "authors": "Wang et al.",
+  "year": 2024,
+  "venue": "arXiv preprint arXiv:2410.03017",
+  "url": "https://arxiv.org/abs/2410.03017v3",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "financebench2023",
+  "title": "FinanceBench: A New Benchmark for Financial Question Answering",
+  "authors": "Islam et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2311.11944",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deploymedalign",
+  "title": "MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records",
+  "authors": "Fleming et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2308.14089v2",
+  "group": "deployment",
+  "subsection": "Professional Data and Institutional Context"
+ },
+ {
+  "key": "deployreact",
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "authors": "Yao et al.",
+  "year": 2023,
+  "venue": "ICLR",
+  "url": "https://arxiv.org/abs/2210.03629",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploytoolllm",
+  "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-World APIs",
+  "authors": "Qin et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2307.16789",
+  "group": "deployment",
+  "subsection": "Tool Integration and Workflow Execution"
+ },
+ {
+  "key": "deploylawrepeal2020",
+  "title": "Decision Repealing Certain Judicial Interpretations and Related Normative Documents",
+  "authors": "Supreme People's Court of the People's Republic of China",
+  "year": 2020,
+  "venue": "Fa Shi [2020] No. 16",
+  "url": "https://www.court.gov.cn/fabu/xiangqing/282061.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploylawspc2020",
+  "title": "Interpretation on Issues Concerning the Application of Law in the Trial of Labour Dispute Cases (I)",
+  "authors": "Supreme People's Court of the People's Republic of China",
+  "year": 2020,
+  "venue": "Judicial interpretation, Fa Shi [2020] No. 26",
+  "url": "https://www.court.gov.cn/fabu/xiangqing/282121.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploylawshenzhen",
+  "title": "Shenzhen Special Economic Zone Regulations on Protection of Enterprise Technical Secrets",
+  "authors": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "year": 2019,
+  "venue": "Shenzhen Municipal People's Government Gazette, 2020, No. 34",
+  "url": "https://www.sz.gov.cn/zfgb/2020/gb1164/content/post_8047987.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploylawspc2013",
+  "title": "Interpretation on Several Issues Concerning the Application of Law in the Trial of Labour Dispute Cases (IV)",
+  "authors": "Supreme People's Court of the People's Republic of China",
+  "year": 2013,
+  "venue": "Historical judicial interpretation, Fa Shi [2013] No. 4",
+  "url": "https://www.court.gov.cn/fabu/xiangqing/5064.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploylawjiangsu",
+  "title": "Jiangsu Labour Contract Regulations",
+  "authors": "Standing Committee of the Jiangsu Provincial People's Congress",
+  "year": 2013,
+  "venue": "Full text published by the Jiangsu Provincial Department of Justice",
+  "url": "https://sft.jiangsu.gov.cn/art/2015/5/18/art_71926_8103093.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "deploylawcontract",
+  "title": "Labour Contract Law of the People's Republic of China",
+  "authors": "Standing Committee of the National People's Congress",
+  "year": 2012,
+  "venue": "Full text published by the Beijing Municipal People's Government",
+  "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201307/t20130701_780700.html",
+  "group": "deployment",
+  "subsection": null
+ },
+ {
+  "key": "societyacemoglu2026knowledge",
+  "title": "AI, Human Cognition and Knowledge Collapse",
+  "authors": "Acemoglu et al.",
+  "year": 2026,
+  "venue": "NBER Working Paper No. 34910",
+  "url": "https://www.nber.org/papers/w34910",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "societysong2026mobility",
+  "title": "AI-Accelerated Occupational Decline and the Mobility Trap",
+  "authors": "Song et al.",
+  "year": 2026,
+  "venue": "AEA Papers and Proceedings, 116, 246–250",
+  "url": "https://doi.org/10.1257/pandp.20261004",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "expertisebarany2026ladders",
+  "title": "Broken Ladders: AI, Teamwork, and the Dynamics of Skill Formation in the Workplace",
+  "authors": "Barany and Koren",
+  "year": 2026,
+  "venue": "Working paper",
+  "url": "https://koren.mk/publications/broken-ladders",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "orgbrynjolfsson2026canaries",
+  "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
+  "authors": "Brynjolfsson et al.",
+  "year": 2026,
+  "venue": "Working paper, Stanford Digital Economy Lab",
+  "url": "https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgwang2026adoption",
+  "title": "High Interest but Low Adoption: Navigating Organizations' Journey towards Generative Artificial Intelligence Implementation",
+  "authors": "Wang et al.",
+  "year": 2026,
+  "venue": "International Journal of Information Management, 87, 103009",
+  "url": "https://doi.org/10.1016/j.ijinfomgt.2025.103009",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertiseshen2026formation",
+  "title": "How AI Impacts Skill Formation",
+  "authors": "Shen and Tamkin",
+  "year": 2026,
+  "venue": "arXiv preprint arXiv:2601.20245",
+  "url": "https://arxiv.org/abs/2601.20245v2",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "societyhaupt2026trust",
+  "title": "Misplaced Trust in Artificial Professional Advice",
+  "authors": "Haupt",
+  "year": 2026,
+  "venue": "Journal of Science & Technology Law, 32(1)",
+  "url": "https://scholarship.law.bu.edu/jostl/vol32/iss1/4/",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "expertiseoecdsmetraining",
+  "title": "SME Technology Adoption in the United Kingdom",
+  "authors": "OECD",
+  "year": 2026,
+  "venue": "OECD Studies on SMEs and Entrepreneurship, OECD Publishing, Paris",
+  "url": "https://doi.org/10.1787/5f25ce2a-en",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "expertiselink2026apprenticeship",
+  "title": "When AI Absorbs the Apprenticeship: Rethinking Staff Development and Expertise Formation in Survey Research",
+  "authors": "Link",
+  "year": 2026,
+  "venue": "Survey Practice, 20",
+  "url": "https://doi.org/10.29115/SP-2026-0023",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "orgyu2026absorption",
+  "title": "Who Will Become the Next Senior? How Generative AI Erodes the Development Pathway in Software Engineering",
+  "authors": "Yu and Moon",
+  "year": 2026,
+  "venue": "arXiv preprint arXiv:2607.17067",
+  "url": "https://arxiv.org/abs/2607.17067v3",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "societyrobbins2025privilege",
+  "title": "Against an AI Privilege",
+  "authors": "Robbins",
+  "year": 2025,
+  "venue": "Harvard Journal of Law & Technology Digest",
+  "url": "https://jolt.law.harvard.edu/digest/against-an-ai-privilege",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "expertiseide2025transmission",
+  "title": "Automation, AI, and the Intergenerational Transmission of Knowledge",
+  "authors": "Ide",
+  "year": 2025,
+  "venue": "CEPR Discussion Paper No. 20940",
+  "url": "https://cepr.org/publications/dp20940",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "societykorinek2025concentration",
+  "title": "Concentrating Intelligence: Scaling and Market Structure in Artificial Intelligence",
+  "authors": "Korinek and Vipra",
+  "year": 2025,
+  "venue": "Economic Policy, 40(121), 225–256",
+  "url": "https://doi.org/10.1093/epolic/eiae057",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "societykirui2025mercury",
+  "title": "Financial Services Executive? Open AI Wants You",
+  "authors": "Kirui",
+  "year": 2025,
+  "venue": "News article, Finance Magnates",
+  "url": "https://www.financemagnates.com/trending/financial-services-executive-open-ai-wants-you/",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "societychien2025legalaid",
+  "title": "Generative AI and Legal Aid: Results from a Field Study and 100 Use Cases to Bridge the Access to Justice Gap",
+  "authors": "Chien and Kim",
+  "year": 2025,
+  "venue": "Loyola of Los Angeles Law Review, 57(4)",
+  "url": "https://digitalcommons.lmu.edu/llr/vol57/iss4/2/",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "orgxu2025structure",
+  "title": "Generative AI and Organizational Structure in the Knowledge Economy",
+  "authors": "Xu et al.",
+  "year": 2025,
+  "venue": "arXiv preprint arXiv:2506.00532",
+  "url": "https://arxiv.org/abs/2506.00532v2",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orghoffmann2025work",
+  "title": "Generative AI and the Nature of Work",
+  "authors": "Hoffmann et al.",
+  "year": 2025,
+  "venue": "Harvard Business School Working Paper No. 25-021",
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007084",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orghosseini2025seniority",
+  "title": "Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Resume and Job Posting Data",
+  "authors": "Hosseini and Lichtinger",
+  "year": 2025,
+  "venue": "Working paper, SSRN 5425555",
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgbrynjolfsson2025work",
+  "title": "Generative AI at Work",
+  "authors": "Brynjolfsson et al.",
+  "year": 2025,
+  "venue": "The Quarterly Journal of Economics, 140(2), 889–942",
+  "url": "https://doi.org/10.1093/qje/qjae044",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertisebastani2025guardrails",
+  "title": "Generative AI without Guardrails Can Harm Learning: Evidence from High School Mathematics",
+  "authors": "Bastani et al.",
+  "year": 2025,
+  "venue": "National Academy of Sciences, 122(26), e2422633122",
+  "url": "https://doi.org/10.1073/pnas.2422633122",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "societykyi2025governance",
+  "title": "Governance of Generative AI in Creative Work: Consent, Credit, Compensation, and Beyond",
+  "authors": "Kyi et al.",
+  "year": 2025,
+  "venue": "CHI",
+  "url": "https://doi.org/10.1145/3706598.3713799",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "orgseifdar2025adoption",
+  "title": "Strategic Adoption of Generative AI in Organizations: A Game-Theoretic and Network-Based Approach",
+  "authors": "Seifdar and Amiri",
+  "year": 2025,
+  "venue": "International Journal of Information Management, 84, 102932",
+  "url": "https://doi.org/10.1016/j.ijinfomgt.2025.102932",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgmckinsey2025state",
+  "title": "The State of AI in 2025: Agents, Innovation, and Transformation",
+  "authors": "Singla et al.",
+  "year": 2025,
+  "venue": "Survey report, McKinsey & Company",
+  "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/november%202025/the-state-of-ai-2025-agents-innovation_cmyk-v1.pdf",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertisegaricano2025training",
+  "title": "Training in the Age of AI: A Theory of Career Viability",
+  "authors": "Garicano and Rayo",
+  "year": 2025,
+  "venue": "CEPR Discussion Paper No. 20634",
+  "url": "https://cepr.org/publications/dp20634",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "societydelriochanona2024sharing",
+  "title": "Large Language Models Reduce Public Knowledge Sharing on Online Q&A Platforms",
+  "authors": "del Rio-Chanona et al.",
+  "year": 2024,
+  "venue": "PNAS Nexus, 3(9), pgae400",
+  "url": "https://doi.org/10.1093/pnasnexus/pgae400",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "societyburtch2024communities",
+  "title": "The Consequences of Generative AI for Online Knowledge Communities",
+  "authors": "Burtch et al.",
+  "year": 2024,
+  "venue": "Scientific Reports, 14, Article 10413",
+  "url": "https://doi.org/10.1038/s41598-024-61221-0",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "societyhui2024employment",
+  "title": "The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market",
+  "authors": "Hui et al.",
+  "year": 2024,
+  "venue": "Organization Science, 35(6), 1977–1989",
+  "url": "https://doi.org/10.1287/orsc.2023.18441",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "orgwidder2023accountabilities",
+  "title": "Dislocated Accountabilities in the “AI Supply Chain”: Modularity and Developers' Notions of Responsibility",
+  "authors": "Widder and Nafus",
+  "year": 2023,
+  "venue": "Big Data & Society, 10(1)",
+  "url": "https://doi.org/10.1177/20539517231177620",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgbabina2023workforce",
+  "title": "Firm Investments in Artificial Intelligence Technologies and Changes in Workforce Composition",
+  "authors": "Babina et al.",
+  "year": 2023,
+  "venue": "NBER Working Paper No. 31325",
+  "url": "https://www.nber.org/papers/w31325",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "societysenftleben2023remuneration",
+  "title": "Generative AI and Author Remuneration",
+  "authors": "Senftleben",
+  "year": 2023,
+  "venue": "IIC – International Review of Intellectual Property and Competition Law, 54, 1535–1560",
+  "url": "https://doi.org/10.1007/s40319-023-01399-4",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "orglebovitz2021groundtruth",
+  "title": "Is AI Ground Truth Really True? The Dangers of Training and Evaluating AI Tools Based on Experts' Know-What",
+  "authors": "Lebovitz et al.",
+  "year": 2021,
+  "venue": "MIS Quarterly, 45(3), 1501–1525",
+  "url": "https://doi.org/10.25300/MISQ/2021/16564",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgpachidi2021algorithms",
+  "title": "Make Way for the Algorithms: Symbolic Actions and Change in a Regime of Knowing",
+  "authors": "Pachidi et al.",
+  "year": 2021,
+  "venue": "Organization Science, 32(1), 18–41",
+  "url": "https://doi.org/10.1287/orsc.2020.1377",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "orgraji2020auditing",
+  "title": "Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing",
+  "authors": "Raji et al.",
+  "year": 2020,
+  "venue": "2020 Conference on Fairness, Accountability, and Transparency, 33–44",
+  "url": "https://doi.org/10.1145/3351095.3372873",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "societyhaupt2019advice",
+  "title": "Governing A.I.'s Professional Advice",
+  "authors": "Haupt",
+  "year": 2019,
+  "venue": "McGill Law Journal, 64(4), 665–682",
+  "url": "https://lawjournal.mcgill.ca/article/governing-a-i-s-professional-advice/",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "orgelish2019crumple",
+  "title": "Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction",
+  "authors": "Elish",
+  "year": 2019,
+  "venue": "Engaging Science, Technology, and Society, 5, 40–60",
+  "url": "https://doi.org/10.17351/ests2019.260",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertisebeane2019shadow",
+  "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+  "authors": "Beane",
+  "year": 2019,
+  "venue": "Administrative Science Quarterly, 64(1), 87–123",
+  "url": "https://doi.org/10.1177/0001839217751692",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "expertisemuehlemann2011poaching",
+  "title": "Firm-Sponsored Training and Poaching Externalities in Regional Labor Markets",
+  "authors": "Muehlemann and Wolter",
+  "year": 2011,
+  "venue": "Regional Science and Urban Economics, 41(6), 560–570",
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2011.04.003",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "kahneman2009conditions",
+  "title": "Conditions for Intuitive Expertise: A Failure to Disagree",
+  "authors": "Kahneman and Klein",
+  "year": 2009,
+  "venue": "American Psychologist",
+  "url": "https://doi.org/10.1037/a0016755",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "societykambourov2009specificity",
+  "title": "Occupational Specificity of Human Capital",
+  "authors": "Kambourov and Manovskii",
+  "year": 2009,
+  "venue": "International Economic Review, 50(1), 63–115",
+  "url": "https://doi.org/10.1111/j.1468-2354.2008.00524.x",
+  "group": "societal",
+  "subsection": "Impacts Beyond Organizational Boundaries"
+ },
+ {
+  "key": "acc2007",
+  "title": "Analysing and Assessing Accountability: A Conceptual Framework",
+  "authors": "Bovens",
+  "year": 2007,
+  "venue": "European law journal",
+  "url": "https://doi.org/10.1111/j.1468-0386.2007.00378.x",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertisestevens2001training",
+  "title": "Should Firms Be Required to Pay for Vocational Training?",
+  "authors": "Stevens",
+  "year": 2001,
+  "venue": "The Economic Journal, 111(473), 485–505",
+  "url": "https://doi.org/10.1111/1468-0297.00647",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "orgforsythe1993knowledge",
+  "title": "Engineering Knowledge: The Construction of Knowledge in Artificial Intelligence",
+  "authors": "Forsythe",
+  "year": 1993,
+  "venue": "Social Studies of Science, 23(3), 445–477",
+  "url": "https://doi.org/10.1177/0306312793023003002",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "dreyfus1986mind",
+  "title": "Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer",
+  "authors": "Dreyfus and Dreyfus",
+  "year": 1986,
+  "venue": "Free Press",
+  "url": "",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "structure1980",
+  "title": "Structure in 5's: A Synthesis of the Research on Organization Design",
+  "authors": "Mintzberg",
+  "year": 1980,
+  "venue": "Management Science",
+  "url": "https://doi.org/10.1287/mnsc.26.3.322",
+  "group": "societal",
+  "subsection": "Organizational Structure and Accountability"
+ },
+ {
+  "key": "expertiserosen1972learning",
+  "title": "Learning and Experience in the Labor Market",
+  "authors": "Rosen",
+  "year": 1972,
+  "venue": "The Journal of Human Resources, 7(3), 326–342",
+  "url": "https://doi.org/10.2307/145087",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "expertisebecker1964capital",
+  "title": "Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education",
+  "authors": "Becker",
+  "year": 1964,
+  "venue": "Book, National Bureau of Economic Research and Columbia University Press, New York",
+  "url": "https://www.nber.org/books-and-chapters/human-capital-theoretical-and-empirical-analysis-special-reference-education-first-edition",
+  "group": "societal",
+  "subsection": "Reproducing Expertise"
+ },
+ {
+  "key": "wang2024awm",
+  "title": "Agent Workflow Memory",
+  "authors": "Wang et al.",
+  "year": 2024,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2409.07429",
+  "group": "framing",
+  "subsection": null
+ },
+ {
+  "key": "wang2023voyager",
+  "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+  "authors": "Wang et al.",
+  "year": 2023,
+  "venue": "arXiv",
+  "url": "https://arxiv.org/abs/2305.16291",
+  "group": "framing",
+  "subsection": null
+ },
+ {
+  "key": "autor2014polanyi",
+  "title": "Polanyi's Paradox and the Shape of Employment Growth",
+  "authors": "Autor",
+  "year": 2014,
+  "venue": "National Bureau of Economic Research",
+  "url": "https://www.nber.org/papers/w20485",
+  "group": "framing",
+  "subsection": null
+ },
+ {
+  "key": "tencate2005entrustability",
+  "title": "Entrustability of Professional Activities and Competency-Based Training",
+  "authors": "ten Cate",
+  "year": 2005,
+  "venue": "Medical Education",
+  "url": "https://doi.org/10.1111/j.1365-2929.2005.02341.x",
+  "group": "framing",
+  "subsection": null
+ },
+ {
+  "key": "holmstrom1991multitask",
+  "title": "Multitask Principal–Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design",
+  "authors": "Holmstrom and Milgrom",
+  "year": 1991,
+  "venue": "Journal of Law, Economics, & Organization",
+  "url": "",
+  "group": "framing",
+  "subsection": null
+ }
+]

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="660" viewBox="0 0 1440 660">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#39718b"/></marker></defs>
+<rect width="1440" height="660" fill="white"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<text x="720" y="45" text-anchor="middle" font-size="30" font-weight="700" fill="#203c60">AI reshapes more than task execution</text>
+<text x="720" y="77" text-anchor="middle" font-size="19" fill="#586778">Three dimensions of societal impact in knowledge work</text>
+<rect x="30" y="110" width="440" height="325" rx="14" fill="#eef3f8" stroke="#98b2c7" stroke-width="2"/>
+<rect x="500" y="110" width="440" height="325" rx="14" fill="#edf5f2" stroke="#90b7aa" stroke-width="2"/>
+<rect x="970" y="110" width="440" height="325" rx="14" fill="#f7f2e9" stroke="#c4ab7d" stroke-width="2"/>
+<g font-size="24" font-weight="700">
+<text x="55" y="151" fill="#203c60">Organization &amp; accountability</text>
+<text x="525" y="151" fill="#087e73">Reproduction of expertise</text>
+<text x="995" y="151" fill="#957340">Beyond the organization</text>
+</g>
+<g font-size="21" fill="#374657">
+<text x="55" y="198">Senior–AI workflows can reduce</text><text x="55" y="227">junior execution and coordination.</text>
+<text x="55" y="275">Control over reusable knowledge</text><text x="55" y="304">can shift decision authority.</text>
+<text x="55" y="352">Formal responsibility may remain</text><text x="55" y="381">with professionals reviewing outputs.</text>
+<text x="525" y="198">Automated junior work can remove</text><text x="525" y="227">opportunities for situated practice.</text>
+<text x="525" y="275">Current output can be sustained</text><text x="525" y="304">while future expertise weakens.</text>
+<text x="525" y="352">Preserve supervised participation,</text><text x="525" y="381">feedback, and independent judgment.</text>
+<text x="995" y="198">Access to advice can expand</text><text x="995" y="227">without professional safeguards.</text>
+<text x="995" y="275">Providers can capture gains while</text><text x="995" y="304">practitioners bear transition costs.</text>
+<text x="995" y="352">Shared knowledge needs continued</text><text x="995" y="381">contribution and maintenance.</text>
+</g>
+<g fill="none" stroke="#39718b" stroke-width="2.5" marker-end="url(#arrow)"><path d="M250 435 V480"/><path d="M720 435 V480"/><path d="M1190 435 V480"/></g>
+<rect x="30" y="490" width="1380" height="112" rx="12" fill="#f3f6f8" stroke="#a7b9c6" stroke-width="1.5"/>
+<text x="720" y="529" text-anchor="middle" font-size="24" font-weight="700" fill="#203c60">Sustainable collaboration requires deliberate institutional choices</text>
+<text x="720" y="569" text-anchor="middle" font-size="21" fill="#374657">Align authority with accountability · Fund expert development · Sustain safeguards and shared knowledge</text>
+<text x="720" y="638" text-anchor="middle" font-size="17" fill="#687585">Conceptual summary of Section 6; pathways and risks are not universal outcomes.</text>
+</g></svg>
